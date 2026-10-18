@@ -1,0 +1,1072 @@
+{
+  "schemaVersion": 1,
+  "source": "기상청",
+  "sourceUrl": "https://www.kma.go.kr/repositary/xml/fct/mon/img/fct_mon1rss_108_20261015.xml",
+  "fetchedAt": "2026-10-18T08:52:49.293Z",
+  "issuedAt": "2026-10-15T11:00:00+09:00",
+  "issuedLabel": "2026년 10월 15일 11시",
+  "nextIssueAt": "2026-10-22T11:00:00+09:00",
+  "nextIssueLabel": "2026년 10월 22일 11시",
+  "period": "2026년 10월 26일 ~ 11월 22일",
+  "nationalReviews": [
+    "이동성 고기압의 영향을 주로 받겠습니다.\n(주평균기온) 평년(10.3~11.9℃)보다 높을 확률이 50%입니다.\n※ 확률전망(%): 낮음 10, 비슷 40, 높음 50\n(주강수량) 평년(3.2~9.8㎜)과 비슷하거나 적을 확률이 각각 40%입니다.\n※ 확률전망(%): 적음 40, 비슷 40, 많음 20",
+    "이동성 고기압의 영향을 주로 받겠으나,\n남쪽을 지나는 저기압의 영향을 받을 때가 있겠습니다.\n\n(주평균기온) 평년(9.5~11.3℃)보다 높을 확률이 50%입니다.\n※ 확률전망(%): 낮음 10, 비슷 40, 높음 50\n(주강수량) 평년(3.4~11.8㎜)과 비슷하거나 많을 확률이 각각 40%입니다.\n※ 확률전망(%): 적음 20, 비슷 40, 많음 40",
+    "이동성 고기압의 영향을 주로 받겠으나,\n남쪽을 지나는 저기압의 영향을 받을 때가 있겠습니다.\n(주평균기온) 평년(8.0~9.6℃)보다 높을 확률이 60%입니다.\n※ 확률전망(%): 낮음 10, 비슷 30, 높음 60\n(주강수량) 평년(3.0~12.4㎜)과 비슷하거나 많을 확률이 각각 40%입니다.\n※ 확률전망(%): 적음 20, 비슷 40, 많음 40",
+    "이동성 고기압의 영향을 주로 받겠으나,\n일시적으로 상층 기압골의 영향을 받을 때가 있겠습니다.\n\n(주평균기온) 평년(5.0~7.0℃)보다 높을 확률이 50%입니다.\n※ 확률전망(%): 낮음 10, 비슷 40, 높음 50\n(주강수량) 평년(2.2~12.0㎜)과 비슷할 확률이 50%입니다.\n※ 확률전망(%): 적음 20, 비슷 50, 많음 30"
+  ],
+  "regions": [
+    {
+      "name": "전국(제주도,북한제외)",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "10.3~11.9",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.2~9.8",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "9.5~11.3",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.4~11.8",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "8.0~9.6",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.0~12.4",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "5.0~7.0",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.2~12.0",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "서울ㆍ인천ㆍ경기도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "9.7~11.5",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.2~10.8",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "9.0~10.8",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.7~13.1",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "7.1~8.9",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.5~9.0",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "3.9~6.1",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.5~11.1",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "강원도 영서",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "7.4~9.2",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.0~13.4",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "6.8~8.6",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.8~10.5",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "4.9~6.7",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.9~14.1",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "1.6~4.0",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.4~9.7",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "강원도 영동",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "10.0~11.8",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.0~11.3",
+            "probabilities": [
+              30,
+              50,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "9.9~11.5",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.9~11.7",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "7.7~9.1",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "4.3~18.9",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "4.9~6.9",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "0.2~6.2",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "대전ㆍ세종ㆍ충청남도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "9.8~11.4",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.0~11.3",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "9.1~10.9",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.1~12.5",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "7.6~9.4",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.2~11.4",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "4.6~6.6",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.9~9.3",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "충청북도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "8.6~10.4",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.3~9.6",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "7.9~9.7",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.9~10.5",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "6.4~8.2",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.2~12.1",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "3.1~5.3",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.7~7.7",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "전남광주통합시",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "12.6~13.8",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.0~8.4",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "11.6~13.2",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.6~5.9",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "10.2~11.8",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.1~13.9",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "7.5~9.5",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.3~12.6",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "전북자치도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "10.2~11.6",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.1~11.6",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "9.3~11.1",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.4~11.2",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "7.9~9.7",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.5~11.7",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "4.9~7.1",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.2~13.0",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "부산ㆍ울산ㆍ경상남도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "12.1~13.5",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "0.5~5.8",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "11.2~12.8",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.0~7.7",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "9.9~11.3",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "0.7~11.1",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "7.0~9.0",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "0.1~15.5",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "대구ㆍ경상북도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "10.2~11.6",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.5~9.4",
+            "probabilities": [
+              30,
+              50,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "9.3~10.9",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.7~7.4",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "7.9~9.5",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.6~9.3",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "4.9~6.9",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "0.2~6.4",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "제주도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "15.6~16.8",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.0~11.7",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "15.0~16.4",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.1~17.7",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "13.8~15.0",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.5~26.1",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "11.5~13.3",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.7~12.6",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "평안남북도ㆍ황해도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "7.2~9.0",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "4.5~10.4",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "6.7~8.3",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.8~14.2",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "4.0~6.0",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.2~12.9",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "0.8~3.2",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.8~10.0",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "함경남북도",
+      "weeks": [
+        {
+          "period": "10.26.~11.01.",
+          "temperature": {
+            "normalRange": "5.7~7.3",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "1.8~6.0",
+            "probabilities": [
+              40,
+              40,
+              20
+            ]
+          }
+        },
+        {
+          "period": "11.02.~11.08.",
+          "temperature": {
+            "normalRange": "4.9~6.5",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "3.1~10.1",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.09.~11.15.",
+          "temperature": {
+            "normalRange": "2.1~3.9",
+            "probabilities": [
+              10,
+              30,
+              60
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.7~7.3",
+            "probabilities": [
+              20,
+              40,
+              40
+            ]
+          }
+        },
+        {
+          "period": "11.16.~11.22.",
+          "temperature": {
+            "normalRange": "-0.9~1.5",
+            "probabilities": [
+              10,
+              40,
+              50
+            ]
+          },
+          "rainfall": {
+            "normalRange": "2.0~9.8",
+            "probabilities": [
+              20,
+              50,
+              30
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
